@@ -1,66 +1,58 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Creative Portfolio</title>
-  <link rel="stylesheet" href="styles.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Daniella Achonu">
+    <meta name="description"
+        content="Hi-Fi web user interface prototype. A project submission for the Visual Design module at the Birkbeck University of London">
+    <title>UI Design</title>
+    <link rel="shortcut icon" href="images/pexels-creative-free-stock-971360.jpg" type="image/x-icon">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Sacramento&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
 </head>
+
+
 <body>
-  <header>
-    <h1>Creative Portfolio</h1>
+
     <nav>
-      <ul>
-        <li><a href="#about">About</a></li>
-        <li><a href="#portfolio">Portfolio</a></li>
-        <li><a href="#contact">Contact</a></li>
-      </ul>
+        <div class="logo">Daniella Achonu</div>
+        <ul>
+            <li><a href="index.html">About</a></li>
+            <li><a href="web.html">Web Design </a></li>
+            <li><a href="gif.html">Animation</a></li>
+            <li><a href="colourTypography.html">Colour & Typography</a></li>
+            <li><a href="logo.html">Logo</a></li>
+
+        </ul>
     </nav>
-  </header>
 
-  <section id="about">
-    <div class="container">
-      <h2>About Me</h2>
-      <p>Welcome to my creative portfolio! I'm passionate about design and love to create visually stunning projects.</p>
-    </div>
-  </section>
+    <div class="gallery">
+        <div class="image">
+            <img src="images/pexels-creative-free-stock-971360.jpg" alt="Rose flower photo">
 
-  <section id="portfolio">
-    <div class="container">
-      <h2>Portfolio</h2>
-      <div class="project">
-        <img src="project1.jpg" alt="Project 1">
-        <h3>Project 1</h3>
-        <p>Description of project 1...</p>
-      </div>
-      <div class="project">
-        <img src="project2.jpg" alt="Project 2">
-        <h3>Project 2</h3>
-        <p>Description of project 2...</p>
-      </div>
-      <!-- Add more projects as needed -->
-    </div>
-  </section>
+            <span class="credit">Image Credit: Photo by Creative Free Stock(Pexel)</span>
+        </div>
+        <div class="info">
+            <h2 id="title"> DPixels Designs </h2>
+            <p class="summary">
+                Design is my passion, and I delight in crafting visually captivating projects.
+                Discover one of my creations!
 
-  <section id="contact">
-    <div class="container">
-      <h2>Contact Me</h2>
-      <form>
-        <label for="name">Name:</label>
-        <input type="text" id="name" name="name" required>
-        <label for="email">Email:</label>
-        <input type="email" id="email" name="email" required>
-        <label for="message">Message:</label>
-        <textarea id="message" name="message" required></textarea>
-        <button type="submit">Send</button>
-      </form>
-    </div>
-  </section>
+            </p>
 
-  <footer>
-    <div class="container">
-      <p>&copy; 2024 Creative Portfolio. All rights reserved.</p>
+            <a href="web.html" class="button">Visit Design Project</a>
+        </div>
     </div>
-  </footer>
+
+    <footer>
+        <p>&copy; 2024 Hi-Fi prototype: Web User Interface All rights reserved.</p>
+
+    </footer>
+
 </body>
+
 </html>

@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1440" height="1864" viewBox="0 0 1440 1864">
+  <defs>
+    <clipPath id="clip-Color_and_Typography">
+      <rect width="1440" height="1864"/>
+    </clipPath>
+  </defs>
+  <g id="Color_and_Typography" data-name="Color and Typography" clip-path="url(#clip-Color_and_Typography)">
+    <rect width="1440" height="1864" fill="#fff"/>
+    <text id="These_colours_are_added_to_the_asset_panel_in_Adobe_XD_and_can_easily_be_updated_to_align_with_specific_brand_colour_schemes." data-name="These colours are added to the asset panel in Adobe XD and can easily be updated to align with specific brand colour schemes." transform="translate(295 152)" fill="rgba(0,0,0,0.6)" font-size="16" font-family="Lato-Regular, Lato"><tspan x="0" y="16">These colours are added to the asset panel in Adobe XD and can easily be updated to align with specific </tspan><tspan x="0" y="38">brand colour schemes.</tspan></text>
+    <text id="In_this_design_the_primary_fonts_are_Poppins_and_Arial._Poppins_is_reserved_for_headings_lending_them_prominence_while_Arial_is_employed_for_body_text_to_prioritize_clarity_and_legibility._The_decision_to_blend_Poppins_and_Arial_in_web_typography_is_de" data-name="In this design, the primary fonts are Poppins and Arial. Poppins is reserved for headings, lending them prominence, while Arial is employed for body text to prioritize clarity and legibility.
+
+The decision to blend Poppins and Arial in web typography is de" transform="translate(293 642)" fill="rgba(0,0,0,0.6)" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="14">In this design, the primary fonts are Poppins and Arial. Poppins is reserved for headings, lending them </tspan><tspan x="0" y="36">prominence, while Arial is employed for body text to prioritize clarity and legibility.</tspan><tspan x="0" y="58"></tspan><tspan x="0" y="80">The decision to blend Poppins and Arial in web typography is deliberate, aiming to strike a harmonious </tspan><tspan x="0" y="102">balance between aesthetics, readability, accessibility, and brand cohesion.</tspan><tspan x="0" y="124"></tspan><tspan x="0" y="146">Fonts are conveniently managed within Adobe XD’s Assets panel, allowing swift modification to align with </tspan><tspan x="0" y="168">brand specifications. By adjusting the font within Character Styles in the Assets panel, all instances throughout </tspan><tspan x="0" y="190">the design will seamlessly reflect the updated choice.</tspan></text>
+    <text id="Colour_Palette" data-name="Colour Palette" transform="translate(295 130)" fill="rgba(0,0,0,0.87)" font-size="24" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Colour Palette</tspan></text>
+    <text id="Typography" transform="translate(291 628)" fill="rgba(0,0,0,0.87)" font-size="24" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Typography</tspan></text>
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="100" height="90" transform="translate(295 225)" fill="#f7b202"/>
+    <path id="Path_225" data-name="Path 225" d="M0,0H100V90H0Z" transform="translate(405 225)" fill="#403157"/>
+    <rect id="Rectangle_6" data-name="Rectangle 6" width="100" height="90" transform="translate(515 227)" fill="#eee"/>
+    <rect id="Rectangle_8" data-name="Rectangle 8" width="100" height="90" transform="translate(625 225)" fill="#707070"/>
+    <rect id="Rectangle_452" data-name="Rectangle 452" width="100" height="90" transform="translate(735 225)" fill="#656565"/>
+    <rect id="Rectangle_16" data-name="Rectangle 16" width="100" height="90" transform="translate(295 399)" fill="#81456d"/>
+    <path id="Path_226" data-name="Path 226" d="M0,0H100V90H0Z" transform="translate(405 399)" fill="#f2e4ed"/>
+    <g id="Path_227" data-name="Path 227" transform="translate(515 399)" fill="#fff" opacity="0.112">
+      <path d="M 99.5 89.5 L 0.5 89.5 L 0.5 0.5 L 99.5 0.5 L 99.5 89.5 Z" stroke="none"/>
+      <path d="M 1 1 L 1 89 L 99 89 L 99 1 L 1 1 M 0 0 L 100 0 L 100 90 L 0 90 L 0 0 Z" stroke="none" fill="#100202"/>
+    </g>
+    <rect id="Rectangle_20" data-name="Rectangle 20" width="100" height="90" transform="translate(625 399)" fill="#e0d0d0"/>
+    <rect id="Rectangle_22" data-name="Rectangle 22" width="100" height="90" transform="translate(734 399)" fill="#767676"/>
+    <path id="Rectangle_2" data-name="Rectangle 2" d="M0,0H100a0,0,0,0,1,0,0V56a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4V0A0,0,0,0,1,0,0Z" transform="translate(295 315)" fill="#f3f3f3"/>
+    <path id="Rectangle_3" data-name="Rectangle 3" d="M0,0H100a0,0,0,0,1,0,0V56a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4V0A0,0,0,0,1,0,0Z" transform="translate(405 315)" fill="#f3f3f3"/>
+    <path id="Rectangle_5" data-name="Rectangle 5" d="M0,0H100a0,0,0,0,1,0,0V56a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4V0A0,0,0,0,1,0,0Z" transform="translate(515 315)" fill="#f3f3f3"/>
+    <path id="Rectangle_7" data-name="Rectangle 7" d="M0,0H100a0,0,0,0,1,0,0V56a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4V0A0,0,0,0,1,0,0Z" transform="translate(625 315)" fill="#f3f3f3"/>
+    <path id="Rectangle_453" data-name="Rectangle 453" d="M0,0H100a0,0,0,0,1,0,0V56a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4V0A0,0,0,0,1,0,0Z" transform="translate(735 315)" fill="#f3f3f3"/>
+    <path id="Rectangle_15" data-name="Rectangle 15" d="M0,0H100a0,0,0,0,1,0,0V56a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4V0A0,0,0,0,1,0,0Z" transform="translate(295 489)" fill="#f3f3f3"/>
+    <path id="Rectangle_72" data-name="Rectangle 72" d="M0,0H100a0,0,0,0,1,0,0V56a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4V0A0,0,0,0,1,0,0Z" transform="translate(405 489)" fill="#f3f3f3"/>
+    <path id="Rectangle_17" data-name="Rectangle 17" d="M0,0H100a0,0,0,0,1,0,0V56a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4V0A0,0,0,0,1,0,0Z" transform="translate(515 489)" fill="#f3f3f3"/>
+    <path id="Rectangle_19" data-name="Rectangle 19" d="M0,0H100a0,0,0,0,1,0,0V56a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4V0A0,0,0,0,1,0,0Z" transform="translate(625 489)" fill="#f3f3f3"/>
+    <path id="Rectangle_21" data-name="Rectangle 21" d="M0,0H100a0,0,0,0,1,0,0V56a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4V0A0,0,0,0,1,0,0Z" transform="translate(734 489)" fill="#f3f3f3"/>
+    <text id="Goldenrod" transform="translate(306 336)" fill="#262626" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Goldenrod</tspan></text>
+    <text id="Dark_Slate_Blue" data-name="Dark Slate Blue" transform="translate(407 336)" fill="#262626" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Dark Slate Blue</tspan></text>
+    <text id="Light_Grey" data-name="Light Grey" transform="translate(526 336)" fill="#262626" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Light Grey</tspan></text>
+    <text id="Dark_Grey" data-name="Dark Grey" transform="translate(636 336)" fill="#262626" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Dark Grey</tspan></text>
+    <text id="Cadet_Grey" data-name="Cadet Grey" transform="translate(746 336)" fill="#262626" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Cadet Grey</tspan></text>
+    <text id="Lavender_Blush" data-name="Lavender Blush" transform="translate(406 508)" fill="#262626" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Lavender Blush</tspan></text>
+    <text id="White" transform="translate(526 510)" fill="#262626" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">White</tspan></text>
+    <text id="Sepia" transform="translate(636 510)" fill="#262626" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Sepia</tspan></text>
+    <text id="Silver" transform="translate(745 510)" fill="#262626" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Silver</tspan></text>
+    <text id="_F7BD28" data-name="#F7BD28" transform="translate(306 356)" fill="#656565" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">#F7BD28</tspan></text>
+    <text id="_403157" data-name="#403157" transform="translate(416 356)" fill="#656565" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">#403157</tspan></text>
+    <text id="_EEEEEE" data-name="#EEEEEE" transform="translate(526 356)" fill="#656565" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">#EEEEEE</tspan></text>
+    <text id="_707070" data-name="#707070" transform="translate(636 356)" fill="#656565" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">#707070</tspan></text>
+    <text id="_B0B7BA" data-name="#B0B7BA" transform="translate(746 356)" fill="#656565" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">#B0B7BA</tspan></text>
+    <text id="_81456D" data-name="#81456D" transform="translate(302 532)" fill="#656565" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">#81456D</tspan></text>
+    <text id="_F2E4ED" data-name="#F2E4ED" transform="translate(416 530)" fill="#656565" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">#F2E4ED</tspan></text>
+    <text id="_FFFFFF" data-name="#FFFFFF" transform="translate(526 530)" fill="#656565" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">#FFFFFF</tspan></text>
+    <text id="_A5673F" data-name="#A5673F" transform="translate(636 530)" fill="#767676" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">#A5673F</tspan></text>
+    <text id="_D1CDCD" data-name="#D1CDCD" transform="translate(745 530)" fill="#656565" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">#D1CDCD</tspan></text>
+    <text id="Plum" transform="translate(306 510)" fill="#262626" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Plum</tspan></text>
+    <text id="A_red_flair_silhouetted_the_jagged_edge_of_a_wing_" data-name="A red flair silhouetted the jagged edge of a wing… " transform="translate(287 1234)" fill="rgba(0,0,0,0.87)" font-size="24" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="25">A red flair silhouetted the jagged edge of a wing… </tspan></text>
+    <text id="Subheader" transform="translate(294 1315)" fill="rgba(0,0,0,0.6)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="0" y="17">Subheader</tspan></text>
+    <text id="Apparently_we_had_reached_a_great_height_in_the_atmosphere_for_the_sky_was_a_dead_black_and_the_stars_had_ceased_to_twinkle._By_the_same_illusion_which_lifts_the_horizon_of_the_sea_to_the_level_of_the_spectator_on_a_hillside_the_sable_cloud_beneath_was_" data-name="Apparently we had reached a great height in the atmosphere, for the sky was a dead black, and the stars had ceased to twinkle. By the same illusion which lifts the horizon of the sea to the level of the spectator on a hillside, the sable cloud beneath was " transform="translate(294 1421)" fill="rgba(0,0,0,0.8)" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="14">Apparently we had reached a great height in the atmosphere, for the sky was a </tspan><tspan x="0" y="38">dead black, and the stars had ceased to twinkle. By the same illusion which lifts </tspan><tspan x="0" y="62">the horizon of the sea to the level of the spectator on a hillside, the sable cloud </tspan><tspan x="0" y="86">beneath was dished out, and the car seemed to float in the middle of an immense </tspan><tspan x="0" y="110">dark sphere, whose upper half was strewn with silver. Looking down into the dark </tspan><tspan x="0" y="134">gulf below, I could see a ruddy light streaming through a rift in the clouds.</tspan></text>
+    <text id="PARAGRAPH" transform="translate(294 1398)" fill="rgba(27,28,29,0.6)" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">PARAGRAPH</tspan></text>
+    <text id="HEADING_WITH_SUBHEADER" data-name="HEADING WITH SUBHEADER" transform="translate(287 1211)" fill="rgba(27,28,29,0.6)" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">HEADING WITH SUBHEADER</tspan></text>
+    <g id="Group_600" data-name="Group 600" transform="translate(-31 152)">
+      <g id="Rectangle_117" data-name="Rectangle 117" transform="translate(295 772)" fill="rgba(243,243,243,0.4)" stroke="rgba(118,118,118,0.3)" stroke-width="1">
+        <rect width="172" height="229" rx="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="171" height="228" rx="3.5" fill="none"/>
+      </g>
+      <text id="Aa" transform="translate(340 843)" fill="rgba(27,28,29,0.6)" font-size="60" font-family="Lato-Bold, Lato" font-weight="700"><tspan x="0" y="0">Aa</tspan></text>
+      <text id="A_red_flair_silhouetted_the_jagged_edge_of_a_wing_2" data-name="A red flair silhouetted the jagged edge of a wing… " transform="translate(554 770)" fill="rgba(0,0,0,0.87)" font-size="28" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="29">A red flair silhouetted the jagged edge of a wing… </tspan></text>
+      <text id="A_red_flair_silhouetted_the_jagged_edge_of_a_wing_3" data-name="A red flair silhouetted the jagged edge of a wing… " transform="translate(554 831)" fill="rgba(0,0,0,0.87)" font-size="24" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="25">A red flair silhouetted the jagged edge of a wing… </tspan></text>
+      <text id="A_red_flair_silhouetted_the_jagged_edge_of_a_wing_4" data-name="A red flair silhouetted the jagged edge of a wing… " transform="translate(554 887)" fill="rgba(0,0,0,0.87)" font-size="18" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="19">A red flair silhouetted the jagged edge of a wing… </tspan></text>
+      <text id="A_red_flair_silhouetted_the_jagged_edge_of_a_wing_5" data-name="A red flair silhouetted the jagged edge of a wing… " transform="translate(554 937)" fill="rgba(0,0,0,0.87)" font-size="15" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="16">A red flair silhouetted the jagged edge of a wing… </tspan></text>
+      <text id="A_red_flair_silhouetted_the_jagged_edge_of_a_wing_6" data-name="A red flair silhouetted the jagged edge of a wing…" transform="translate(554 987)" fill="rgba(0,0,0,0.87)" font-size="14" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="15">A red flair silhouetted the jagged edge of a wing…</tspan></text>
+      <text id="Poppins" transform="translate(361 903)" fill="rgba(27,28,29,0.6)" font-size="12" font-family="Lato-Medium, Lato" font-weight="500"><tspan x="0" y="0">Poppins</tspan></text>
+      <text id="H1" transform="translate(505 795)" fill="rgba(27,28,29,0.6)" font-size="12" font-family="Lato-Medium, Lato" font-weight="500"><tspan x="0" y="0">H1</tspan></text>
+      <text id="H2" transform="translate(506 850)" fill="rgba(27,28,29,0.6)" font-size="11" font-family="Lato-Medium, Lato" font-weight="500"><tspan x="0" y="0">H2</tspan></text>
+      <text id="H3" transform="translate(506 903)" fill="rgba(27,28,29,0.6)" font-size="11" font-family="Lato-Medium, Lato" font-weight="500"><tspan x="0" y="0">H3</tspan></text>
+      <text id="H4" transform="translate(506 953)" fill="rgba(27,28,29,0.6)" font-size="11" font-family="Lato-Medium, Lato" font-weight="500"><tspan x="0" y="0">H4</tspan></text>
+      <text id="H5" transform="translate(506 999)" fill="rgba(27,28,29,0.6)" font-size="11" font-family="Lato-Medium, Lato" font-weight="500"><tspan x="0" y="0">H5</tspan></text>
+      <line id="Line_1" data-name="Line 1" x2="110" transform="translate(321.5 872.5)" fill="none" stroke="#d2d2d2" stroke-width="1"/>
+    </g>
+    <rect id="Rectangle_112" data-name="Rectangle 112" width="1164" height="64" transform="translate(276)" fill="#fff"/>
+    <text id="Colour_and_Typography_utilised_through_out_this_design" data-name="Colour and Typography utilised through out this design" transform="translate(295 37)" fill="rgba(0,0,0,0.87)" font-size="24" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="25">Colour and Typography utilised through out this design</tspan></text>
+  </g>
+</svg>

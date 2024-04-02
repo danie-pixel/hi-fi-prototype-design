@@ -1,0 +1,48 @@
+
+h1 {
+    text-align: center;
+    color: #78626E; 
+    margin: 50px 20px;
+        
+}
+
+p {
+    text-align: center;
+    color: rgb(41, 37, 37);
+    margin-right: 40px;
+    margin-left: 40px;
+    margin-bottom: 40px;
+}
+
+
+img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+}
+
+.button {
+    display: block;
+    width: 200px; 
+    margin: 20px auto;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    color: #403157;
+    background-color: #c6b1bb;
+    border-radius: 10px;
+}
+
+.button:hover {
+    background-color:#DCCEE0; 
+}
+
+
+/* Media Query for Responsive Design */
+@media only screen and (max-width: 600px) {
+ 
+    .button {
+        width: 150px;
+    }
+}
