@@ -62,3 +62,41 @@ img {
 .button:hover {
   background-color: #dccee0;
 }
+
+/* Media query for smaller screens */
+@media screen and (max-width: 768px) {
+  h1 {
+    margin: 20px; /* Adjust margin for smaller screens */
+  }
+
+  .container {
+    grid-template-columns: repeat(
+      2,
+      minmax(0, 1fr)
+    ); /* Adjust grid columns for smaller screens */
+    gap: 20px; /* Adjust gap for smaller screens */
+  }
+
+  video {
+    width: 100%; /* Make videos responsive on smaller screens */
+    margin: 0 auto; /* Center videos horizontally */
+  }
+
+  img {
+    max-width: 100%; /* Ensure images are responsive */
+    height: auto; /* Ensure image aspect ratio is maintained */
+    margin: 0 auto 20px; /* Center images horizontally and add bottom margin */
+  }
+
+  .promo-class {
+    height: auto; /* Allow height to adjust automatically on smaller screens */
+  }
+
+  .button {
+    width: 200px; /* Adjust button width for smaller screens */
+    margin: 10px auto; /* Center button horizontally and adjust top margin */
+    margin-top: 20px; /* Adjust button top margin for smaller screens */
+    margin-left: auto; /* Center button horizontally */
+    margin-right: auto; /* Center button horizontally */
+  }
+}
