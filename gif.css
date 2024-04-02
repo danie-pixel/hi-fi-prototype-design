@@ -71,21 +71,16 @@ img {
 
   .container {
     grid-template-columns: repeat(
-      2,
+      1,
       minmax(0, 1fr)
-    ); /* Adjust grid columns for smaller screens */
+    ); /* Adjust grid to one column for smaller screens */
     gap: 20px; /* Adjust gap for smaller screens */
   }
 
-  video {
-    width: 100%; /* Make videos responsive on smaller screens */
-    margin: 0 auto; /* Center videos horizontally */
-  }
-
+  video,
   img {
-    max-width: 100%; /* Ensure images are responsive */
-    height: auto; /* Ensure image aspect ratio is maintained */
-    margin: 0 auto 20px; /* Center images horizontally and add bottom margin */
+    width: 100%; /* Make videos and images responsive on smaller screens */
+    margin: 0 auto; /* Center videos and images horizontally */
   }
 
   .promo-class {
