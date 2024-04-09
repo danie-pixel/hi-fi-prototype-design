@@ -11,6 +11,10 @@ body {
   background-color: #fff6fc;
 }
 
+a {
+  text-decoration: none;
+}
+
 nav {
   background: linear-gradient(45deg, #c6b1bb, #78626e);
   /* background-color: #c6b1bb; */
