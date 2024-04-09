@@ -4,6 +4,10 @@ h1 {
   margin: 50px 20px;
 }
 
+a {
+  text-decoration: none;
+}
+
 p {
   text-align: center;
   color: rgb(41, 37, 37);

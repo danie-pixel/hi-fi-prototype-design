@@ -11,6 +11,10 @@
   margin-bottom: 100px;
 }
 
+a {
+  text-decoration: none;
+}
+
 .button:hover {
   background-color: #dccee0;
 }
